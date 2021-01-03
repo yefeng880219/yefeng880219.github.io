@@ -6,4 +6,5 @@
 这是marster中的内容
 这是master
 重新写入
-aaaaa
+在这里编辑一些东西，测试一下本地文件的更新情况。
+AAAAAA
